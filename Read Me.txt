@@ -1,0 +1,23 @@
+The project name is Get_CSE(BRUR)_Online
+..........................................
+Developed by,
+GROUP NO 2
+
+MD.Arif Shahriar (1605013)
+
+About the project :
+The project is Developed by Android Studio.It is android apps.
+The project is about to get everything online of cse(Brur).That means the teacher get contact , publish result
+,make notice,Add a new student,add new homework , add new file for class ,see all student,see all notice,all results, take attendence and many more things can do.
+On the other hand student can see the teacher's notice , can get result of specific course and overall course ,can see the teacher's homework
+can get the file uploaded by teacher and can messsaging with teacher and other classmate .
+
+We have done few thing and we are gradually adding more option.
+
+benefit  :
+.........
+
+The student can get everything in online .
+The teacher can take attendence in a mobile app and it will store on database and analysis it .
+The student can get everything in online therefor they do not have to present the department notice board to get result and other things .
+The teacher can easily add everything and the sudent can get it in real time .
